@@ -1,0 +1,9 @@
+Assignment 2:
+
+1. Look at this sample file: sample.py Preview the documentYou are to write such examples, where you describe the code to be written (starts with #), and the code it should generate. The file shows 3 examples of what text should generate what code. 
+2. Write 100 such examples. These are the requirements:
+    * if you want the code to print something, then mention "print" in the text
+    * read the sample.py clearly to see the examples and learn from it. If you want the code to write a program, you are NOT asking to write a function. If you want a function, please mention it. 
+    * run the code in the terminal/notebook and make sure it runs!
+    * you cannot write more than 5 simple functions like add 2/3/4/5 numbers or divide, etc. Try and think of something tough, for example, add a list or tuple together. 
+    * stick to python only (no 3rd party library like numpy, etc)
